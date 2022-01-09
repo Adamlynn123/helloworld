@@ -1,23 +1,18 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This project is a simple beginner project that will print, "Hello World!" out in the terminal. 
 
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
+This project will is an introduction to GitHub and the creation of a Personal Software Portfolio.
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/HvnlMRhEdac)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
+The programming language used in this project is Python and was created using a windows desktop computer. Visual Studio Code is the code editor used in the demo video.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Make A README](https://www.makeareadme.com/)
+* [Signing up for a new GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
